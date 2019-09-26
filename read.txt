@@ -20,7 +20,7 @@ This is demo plugins created for internal assignment.
 
 == Installation ==
 
-1. Upload `/wp-book/` folder to the `/wp-content/plugins/` directory
+1. Upload `/test/` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==

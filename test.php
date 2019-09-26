@@ -13,7 +13,7 @@
  * Version:     1.0.0
  * Author:      Surajkumar Singh
  * Author URI:  https://profiles.wordpress.org/surajkumarsingh/
- * Text Domain: wp-book
+ * Text Domain: test
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path: /languages
