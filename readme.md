@@ -1,4 +1,4 @@
-# WP BOOK #
+# WordPress plugin structure #
 **Contributors:** surajkumarsingh <br />
 **Tags:** book <br />
 **Requires at least:** 5.0.3 <br />
